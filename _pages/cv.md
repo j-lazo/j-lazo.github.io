@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Signal, Image, Automation and Robotics, University of Strasbourg (2023)
+* Ph.D. in Bioengineering, Politecnico di Milano (2023)
+* M.Sc. Physics: Biological Physics and Computational Biology, Lund University (2019) 
+* B.Sc. in Physics, National Autonomous University of Mexico (UNAM) 
+* B.Sc. in Mechatronics Engineering, National Polytechnic Institute (IPN) (2015)
 
-Work experience
+Academic experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025: Postdoctoral Researcher
+  * Chalmers University of Technnology
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023: Computer Vision Research Engineer
+  * CAMMA Laboratory, University of Strasbourg
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019 Early Stage Researcher 
+  * ATLAS project
 
-Publications
+Profesional experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2024: Eye for AI — Graduate Program for Future Leaders in AI
+  * AI Sweden
+
+* 2018: Computer Vision Developer
+  * Picadeli AB
+
+* 2016: Hardware Developer
+  * Center of Technology and Innovation TELMEX
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* MCAA Artificial Intelligence Interest Group founder and board member (event coordinator)
+* Board Member at Alumni Mexico in Sweden (AMS)
